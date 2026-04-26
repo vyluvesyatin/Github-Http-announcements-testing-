@@ -1,5 +1,13 @@
 [
   {
+    "title":"Global log test 2",
+    "content": "> **LIVE FROM GITHUB!**\n\n.returnText\n.alignCenter Guys we will rework UI tomorrow time to sleep in my time zone 😴\n\n--!Stroke: #A028FF",
+    "banner": "",
+    "thumbnail": "",
+    "stroke": "#A028FF",
+    "gradient": ""
+  },
+  {
     "title": "Welcome to StructureCopy V9.5.1(Special Github Test)",
     "content": "> **LIVE FROM GITHUB!**\n\n.returnText\n.alignCenter If this text come-in Live-News Plugin ill be Happi Yippe!\n\n--!Stroke: #A028FF",
     "banner": "",
